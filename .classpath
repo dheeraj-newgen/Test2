@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="appClientModule">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/apache-log4j-extras-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/ejbClient.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/ISPack.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/itext-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/jbossall-client.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/jdts.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/jndi.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/kunststoff.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/log4j-api-2.16.0.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/log4j-core-2.16.0.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/log4j-slf4j-impl-2.16.0.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/NGEjbCallBroker.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/NGUtility.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/niplj.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/nsms.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/omnishared.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/wfdesktop.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/WFSClient.jar"/>
+	<classpathentry kind="lib" path="D:/ME/DocuSign/lib/WFSShared.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
